@@ -1,6 +1,6 @@
 # python_advanced
 
-### 주제
+## 목차
 - class method, instance method, static method
 - namedtuple
 - list comprehension
