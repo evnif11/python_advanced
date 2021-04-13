@@ -1,8 +1,9 @@
 # python_advanced
 
-- class Method, instance Method, static Method
-- namedTuple
-- list Comprehension
+### 주제
+- class method, instance method, static method
+- namedtuple
+- list comprehension
 - generator
 - first class object(일급객체)
 - closure, decorator
